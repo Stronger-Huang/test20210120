@@ -1,6 +1,6 @@
 # Introduction
 
-11111111111Hello, I'm Terry Huang. This is my personal Blog on GitBook.
+Hello, I'm Terry Huang. This is my personal Blog on GitBook.
 Welcome to my world!
 So let's begin
 
