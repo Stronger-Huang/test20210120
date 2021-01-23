@@ -1,10 +1,10 @@
 # Introduction
 
-why can’t push gh-pages?
-
 Hello, I'm Terry Huang. This is my personal Blog on GitBook.
 Welcome to my world!
 So let's begin
+
+（something continue to be: 科研 未来等）
 
 ![image-20210120144049809](image-20210120144049809.png)
 
